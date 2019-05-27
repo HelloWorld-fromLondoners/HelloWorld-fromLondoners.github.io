@@ -21,6 +21,17 @@
     
 
 <style>
+    
+#Reset{
+
+width:100%;
+border: none;
+border-radius: 3px;
+font-size: 12.6px;
+color: #ffffff;
+background: #e5adb3;
+}
+    
 #Newham {
 display: block;
 position: relative;
@@ -30,7 +41,7 @@ height: 30px;
 padding: 0px;
 border: none;
 border-radius: 3px;
-font-size: 12px;
+font-size: 11px;
 text-align: center;
 color: #ffffff;
 background: #e5adb3;
@@ -45,7 +56,7 @@ height: 30px;
 padding: 0px;
 border: none;
 border-radius: 3px;
-font-size: 12px;
+font-size: 11px;
 text-align: center;
 color: #ffffff;
 background: #e5adb3;
@@ -75,7 +86,7 @@ height: 30px;
 padding: 0px;
 border: none;
 border-radius: 3px;
-font-size: 12px;
+font-size: 10px;
 text-align: center;
 color: #ffffff;
 background: #e5adb3;
@@ -105,37 +116,46 @@ height: 30px;
 padding: 0px;
 border: none;
 border-radius: 3px;
-font-size: 12px;
+font-size: 11px;
 text-align: center;
 color: #ffffff;
 background: #e5adb3;
 }
 
-
+/*choose nationality*/
 #menu {
 
 font-weight: 600;
-font-size:16px;
+font-size:13px;
 text-align: center;
-background: rgb(254, 254, 255);
+background: rgb(255, 255, 255);
 position: absolute;
 z-index: 1;
-top: 150px;
+top: 5%;
 right: 80px;
 border-radius: 16px;
-width: 140px;
+width: 130px;
+height:24.5%;
 /*border: 1px solid rgba(0,0,0,0.4);*/
 font-family: 'Open Sans', sans-serif;
 }
 
 #menu h4{
-font-size:13px;
+    background: rgba(255, 255, 255, 0.81);
+    font-size:12px;
+    background: rgba(253, 253, 253, 0.81);
+    display: block;
+    margin: 0;
+    padding: 0;
+    padding: 10px;
+    text-align: center;
 
 }
     
 #menu a {
-font-size: 12px;
+font-size: 11px;
 color: rgba(21, 22, 23, 0.81);
+background: rgba(218, 218, 219, 0.52);
 border-radius: 16px;
 display: block;
 margin: 0;
@@ -146,12 +166,9 @@ border-bottom: 1px solid rgba(67, 61, 61, 0.29);
 text-align: center;
 }
  
-#menu a:last-child {
-border: none;
-}
  
 #menu a:hover {
-background-color: #f8f8f8;
+background-color: #ffffff;
 color: #799ed9;
 }
  
@@ -164,26 +181,7 @@ color: #ffffff;
 background: #3074a4;
 }  
     
-#Reset{
-
-width:100%;
-border: none;
-border-radius: 3px;
-font-size: 12px;
-color: #ffffff;
-background: #e5adb3;
-}
-    
-.map-overlay {
-font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
-position: absolute;
-z-index: 5555;
-width: 500px;
-top: 0px;
-left: 40%;
-padding: 10px;
-}
-    
+/*pie chart    */
 .chart {
     background-color: rgba(255, 255, 255, 0.72); 
     position: fixed;
@@ -205,6 +203,17 @@ padding: 10px;
     right: 0px;
     }
  
+/*slider and legend 1*/
+.map-overlay {
+    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    position: absolute;
+    z-index: 5555;
+    width: 30%;
+    top: 0px;
+    left: 33%;
+    padding: 10px;
+    }    
+    
 .map-overlay .map-overlay-inner {
 background-color: rgb(255, 255, 255);
 box-shadow:0 1px 2px rgb(247, 245, 245);
@@ -238,12 +247,14 @@ margin-bottom: 5px;
     cursor: ew-resize;
     }
 
+/*    Borough by sector jobs data*/
 .map-overlay2 {
 font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
 position: absolute;
 width: 170px;
-bottom: 300px;
+top:50%;
 right: 46px;
+height:11%;
 padding: 10px;
 }
 
@@ -255,6 +266,7 @@ background: rgb(254, 254, 255);
 border-radius: 16px;
 width: 100%;
 bottom: 80px;
+height:100%;
 left: 8px;
 padding: 10px;
     }
@@ -263,7 +275,6 @@ padding: 10px;
     text-align: center;
     font: 13px/1px 'Open Sans', sans-serif;
     font-weight: 600;
-/*    background: rgba(203, 217, 232, 0.71);*/
     border-radius: 16px;
     vertical-align: center;
     padding: 0;
@@ -271,7 +282,8 @@ padding: 10px;
     display: block;
     margin: 6px 0px 6px;
 }
-    
+
+/*legend 2*/
 .map-overlay3 {
     font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
     position: absolute;
@@ -319,7 +331,7 @@ padding: 10px;
      
 <div class='map-overlay top'>
     <div class='map-overlay-inner'>
-        <label id='year'>2012&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016</label>
+        <label id='year'>2012&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016</label>
         <input id='slider' type='range' min='2012' max='2016' step='1' value='0' />
     </div>
 
