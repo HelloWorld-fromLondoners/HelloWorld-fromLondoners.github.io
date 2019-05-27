@@ -253,9 +253,9 @@ margin-bottom: 5px;
 font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
 position: absolute;
 width: 170px;
-top:50%;
+top:55%;
 right: 46px;
-height:11%;
+height:12%;
 padding: 10px;
 }
 
@@ -325,11 +325,11 @@ padding: 10px;
     
 </style>
 
-       
-<nav id="menu"><h4>Choose nationality</h4></nav>
+<!--choose nationality-->     
+<nav id="menu"><h4>Choose nationality (zoom > 10.5)</h4></nav>
 <div id='map'></div>
     
-     
+<!--slider and legend 1-->    
 <div class='map-overlay top'>
     <div class='map-overlay-inner'>
         <label id='year'>2012&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016</label>
@@ -342,19 +342,15 @@ padding: 10px;
         <div>Population</div>
         </div>
             <label id='input2'></label>
-    </div>
-    
-    
-    
+    </div>   
 </div>
  
+<!--choose borough-->  
 <div class='map-overlay2'>
     <div class='map-overlay-inner2'>
-    <h3>Borough by sector jobs data</h3> 
-    <button id='Reset'>Reset perspective</button>
-  
+    <h3>Borough by sector jobs data (zoom is less than 10.5) </h3> 
+    <button id='Reset'>Reset perspective</button> 
 <table>
- 
     <tr>
         <th> <button id='Newham'>Newham</button></th>
         <th><button id='Brent'>Brent</button></th>
@@ -370,10 +366,10 @@ padding: 10px;
 </div>
     
 <!--LEGEND2-->
-<h3><div class='map-overlay3' id ='legend2-title'>Hottest Careers</div></h3>
+<h3><div class='map-overlay3' id ='legend2-title'>Most Popular Careers</div></h3>
 <h4><div class='map-overlay3' id='legend2'></div></h4>
 
-
+<!--pie chart-->
 <div class='chart'><canvas id='pie' height=160px></canvas>
     </div>
 
