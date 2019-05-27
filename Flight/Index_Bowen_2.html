@@ -27,7 +27,7 @@
       <a href="javascript:void(0)" class="closebtn" onclick="closeAirport()">&times;</a>
       <div class='content'>
         <div id=dispayfisrt style="position:absolute; top:50%; text-align:center; color:#595959"> <h2>Click the circle to dispay the chart for the airtport's passeger propotion.</h2></div>
-        <div class='barchart'><canvas id='airport_chart' height=260px></canvas></div>
+        <div class='barchart'><canvas id='airport_chart' height=247px></canvas></div>
       </div>
     </div>
     <!--Europe-->
@@ -35,7 +35,7 @@
       <a href="javascript:void(0)" class="closebtn" onclick="closeEurope()">&times;</a>
       <div class='content'>
         <div id='eu_info'></div>
-        <div class='barchart'><canvas id='europe_chart' height=350px></canvas></div>
+        <div class='barchart'><canvas id='europe_chart' height=197px width=197px></canvas></div>
       </div>
     </div>
     <!--Worldwide-->
@@ -43,7 +43,7 @@
       <a href="javascript:void(0)" class="closebtn" onclick="closeWorld()">&times;</a>
       <div class='content'>
         <div id='world_info'></div>
-        <div class='barchart'><canvas id='world_chart' height=350px></canvas></div>
+        <div class='barchart'><canvas id='world_chart' height=197px width=197px></canvas></div>
       </div>
     </div>
 
@@ -51,12 +51,12 @@
 
   <div id="infobar" class='map-overlay'>
       <div class='map-overlay-inner'>
-          <h2>Terminating Passenger amount of London Airports</h2>
+          <h2>Terminating Passenger amount of London Airports in 2018</h2>
           <label id='month'></label>
           <input id='slider' type='range' min='0' max='11' step='1' value='0' />
           <div id='legend' class='legend'>
               <div class='bar'></div>
-              <div>Passenger(millions)</div>
+              <div>Percentage of Foreign Passengers</div>
           </div>
       </div>
   </div>

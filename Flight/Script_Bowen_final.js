@@ -63,7 +63,8 @@ var  Airports = {
     "lg_PAX":14.862,
     "lg_UK":14.382,
     "lg_EU":13.192,
-    "lg_NON":12.843
+    "lg_NON":12.843,
+    "Foreign_rate":0.322807018
     }
   },
   {
@@ -82,7 +83,8 @@ var  Airports = {
     "lg_PAX":14.908,
     "lg_UK":14.469,
     "lg_EU":13.198,
-    "lg_NON":12.737
+    "lg_NON":12.737,
+    "Foreign_rate":0.295302013
     }
   },
   {
@@ -101,7 +103,8 @@ var  Airports = {
     "lg_PAX":15.062,
     "lg_UK":14.653,
     "lg_EU":13.308,
-    "lg_NON":12.825
+    "lg_NON":12.825,
+    "Foreign_rate":0.278735632
     }
   },
   {
@@ -120,7 +123,8 @@ var  Airports = {
     "lg_PAX":15.135,
     "lg_UK":14.809,
     "lg_EU":13.29,
-    "lg_NON":12.583
+    "lg_NON":12.583,
+    "Foreign_rate":0.235294118
     }
   },
   {
@@ -139,7 +143,8 @@ var  Airports = {
     "lg_PAX":15.227,
     "lg_UK":14.886,
     "lg_EU":13.358,
-    "lg_NON":12.652
+    "lg_NON":12.652,
+    "Foreign_rate":0.229268293
     }
   },
   {
@@ -158,7 +163,8 @@ var  Airports = {
     "lg_PAX":15.32,
     "lg_UK":14.96,
     "lg_EU":13.392,
-    "lg_NON":12.803
+    "lg_NON":12.803,
+    "Foreign_rate":0.224444444
     }
   },
   {
@@ -177,7 +183,8 @@ var  Airports = {
     "lg_PAX":15.384,
     "lg_UK":15.011,
     "lg_EU":13.466,
-    "lg_NON":12.967
+    "lg_NON":12.967,
+    "Foreign_rate":0.2375
     }
   },
   {
@@ -196,7 +203,8 @@ var  Airports = {
     "lg_PAX":15.41,
     "lg_UK":15.041,
     "lg_EU":13.456,
-    "lg_NON":13.003
+    "lg_NON":13.003,
+    "Foreign_rate":0.231237323
     }
   },
   {
@@ -215,7 +223,8 @@ var  Airports = {
     "lg_PAX":15.315,
     "lg_UK":14.954,
     "lg_EU":13.381,
-    "lg_NON":12.862
+    "lg_NON":12.862,
+    "Foreign_rate":0.232142857
     }
   },
   {
@@ -234,7 +243,8 @@ var  Airports = {
     "lg_PAX":15.206,
     "lg_UK":14.863,
     "lg_EU":13.375,
-    "lg_NON":12.696
+    "lg_NON":12.696,
+    "Foreign_rate":0.241293532
     }
   },
   {
@@ -253,7 +263,8 @@ var  Airports = {
     "lg_PAX":14.932,
     "lg_UK":14.564,
     "lg_EU":13.271,
-    "lg_NON":12.425
+    "lg_NON":12.425,
+    "Foreign_rate":0.272131148
     }
   },
   {
@@ -272,7 +283,8 @@ var  Airports = {
     "lg_PAX":14.966,
     "lg_UK":14.584,
     "lg_EU":13.225,
-    "lg_NON":12.539
+    "lg_NON":12.539,
+    "Foreign_rate":0.262658228
     }
   },
   {
@@ -291,7 +303,8 @@ var  Airports = {
     "lg_PAX":15.568,
     "lg_UK":14.894,
     "lg_EU":13.588,
-    "lg_NON":14.52
+    "lg_NON":14.52,
+    "Foreign_rate":0.488734835
     }
   },
   {
@@ -310,7 +323,8 @@ var  Airports = {
     "lg_PAX":15.492,
     "lg_UK":14.849,
     "lg_EU":13.582,
-    "lg_NON":14.368
+    "lg_NON":14.368,
+    "Foreign_rate":0.472897196
     }
   },
   {
@@ -329,7 +343,8 @@ var  Airports = {
     "lg_PAX":15.68,
     "lg_UK":15.034,
     "lg_EU":13.745,
-    "lg_NON":14.573
+    "lg_NON":14.573,
+    "Foreign_rate":0.474418605
     }
   },
   {
@@ -348,7 +363,8 @@ var  Airports = {
     "lg_PAX":15.693,
     "lg_UK":15.058,
     "lg_EU":13.795,
-    "lg_NON":14.553
+    "lg_NON":14.553,
+    "Foreign_rate":0.46941896
     }
   },
   {
@@ -367,7 +383,8 @@ var  Airports = {
     "lg_PAX":15.707,
     "lg_UK":15.101,
     "lg_EU":13.833,
-    "lg_NON":14.501
+    "lg_NON":14.501,
+    "Foreign_rate":0.452488688
     }
   },
   {
@@ -386,7 +403,8 @@ var  Airports = {
     "lg_PAX":15.774,
     "lg_UK":15.138,
     "lg_EU":13.876,
-    "lg_NON":14.627
+    "lg_NON":14.627,
+    "Foreign_rate":0.466854725
     }
   },
   {
@@ -405,7 +423,8 @@ var  Airports = {
     "lg_PAX":15.869,
     "lg_UK":15.195,
     "lg_EU":13.974,
-    "lg_NON":14.782
+    "lg_NON":14.782,
+    "Foreign_rate":0.487179487
     }
   },
   {
@@ -424,7 +443,8 @@ var  Airports = {
     "lg_PAX":15.85,
     "lg_UK":15.165,
     "lg_EU":13.941,
-    "lg_NON":14.783
+    "lg_NON":14.783,
+    "Foreign_rate":0.492146597
     }
   },
   {
@@ -443,7 +463,8 @@ var  Airports = {
     "lg_PAX":15.756,
     "lg_UK":15.092,
     "lg_EU":13.886,
-    "lg_NON":14.638
+    "lg_NON":14.638,
+    "Foreign_rate":0.481321839
     }
   },
   {
@@ -462,7 +483,8 @@ var  Airports = {
     "lg_PAX":15.755,
     "lg_UK":15.109,
     "lg_EU":13.911,
-    "lg_NON":14.603
+    "lg_NON":14.603,
+    "Foreign_rate":0.474137931
     }
   },
   {
@@ -481,7 +503,8 @@ var  Airports = {
     "lg_PAX":15.626,
     "lg_UK":14.982,
     "lg_EU":13.793,
-    "lg_NON":14.47
+    "lg_NON":14.47,
+    "Foreign_rate":0.474631751
     }
   },
   {
@@ -500,7 +523,8 @@ var  Airports = {
     "lg_PAX":15.687,
     "lg_UK":15.002,
     "lg_EU":13.796,
-    "lg_NON":14.622
+    "lg_NON":14.622,
+    "Foreign_rate":0.495384615
     }
   },
   {
@@ -519,7 +543,8 @@ var  Airports = {
     "lg_PAX":12.677,
     "lg_UK":12.178,
     "lg_EU":11.442,
-    "lg_NON":10.389
+    "lg_NON":10.389,
+    "Foreign_rate":0.375
     }
   },
   {
@@ -538,7 +563,8 @@ var  Airports = {
     "lg_PAX":12.706,
     "lg_UK":12.243,
     "lg_EU":11.421,
-    "lg_NON":10.341
+    "lg_NON":10.341,
+    "Foreign_rate":0.363636364
     }
   },
   {
@@ -557,7 +583,8 @@ var  Airports = {
     "lg_PAX":12.856,
     "lg_UK":12.384,
     "lg_EU":11.593,
-    "lg_NON":10.489
+    "lg_NON":10.489,
+    "Foreign_rate":0.394736842
     }
   },
   {
@@ -576,7 +603,8 @@ var  Airports = {
     "lg_PAX":12.861,
     "lg_UK":12.366,
     "lg_EU":11.654,
-    "lg_NON":10.475
+    "lg_NON":10.475,
+    "Foreign_rate":0.41025641
     }
   },
   {
@@ -595,7 +623,8 @@ var  Airports = {
     "lg_PAX":12.958,
     "lg_UK":12.509,
     "lg_EU":11.691,
-    "lg_NON":10.44
+    "lg_NON":10.44,
+    "Foreign_rate":0.357142857
     }
   },
   {
@@ -614,7 +643,8 @@ var  Airports = {
     "lg_PAX":13.003,
     "lg_UK":12.556,
     "lg_EU":11.749,
-    "lg_NON":10.414
+    "lg_NON":10.414,
+    "Foreign_rate":0.363636364
     }
   },
   {
@@ -633,7 +663,8 @@ var  Airports = {
     "lg_PAX":13.069,
     "lg_UK":12.637,
     "lg_EU":11.787,
-    "lg_NON":10.451
+    "lg_NON":10.451,
+    "Foreign_rate":0.340425532
     }
   },
   {
@@ -652,7 +683,8 @@ var  Airports = {
     "lg_PAX":12.995,
     "lg_UK":12.603,
     "lg_EU":11.609,
-    "lg_NON":10.398
+    "lg_NON":10.398,
+    "Foreign_rate":0.318181818
     }
   },
   {
@@ -671,7 +703,8 @@ var  Airports = {
     "lg_PAX":12.951,
     "lg_UK":12.493,
     "lg_EU":11.717,
-    "lg_NON":10.369
+    "lg_NON":10.369,
+    "Foreign_rate":0.357142857
     }
   },
   {
@@ -690,7 +723,8 @@ var  Airports = {
     "lg_PAX":12.992,
     "lg_UK":12.556,
     "lg_EU":11.707,
-    "lg_NON":10.425
+    "lg_NON":10.425,
+    "Foreign_rate":0.340909091
     }
   },
   {
@@ -709,7 +743,8 @@ var  Airports = {
     "lg_PAX":12.926,
     "lg_UK":12.507,
     "lg_EU":11.615,
-    "lg_NON":10.31
+    "lg_NON":10.31,
+    "Foreign_rate":0.341463415
     }
   },
   {
@@ -728,7 +763,8 @@ var  Airports = {
     "lg_PAX":12.762,
     "lg_UK":12.303,
     "lg_EU":11.463,
-    "lg_NON":10.411
+    "lg_NON":10.411,
+    "Foreign_rate":0.371428571
     }
   },
   {
@@ -747,7 +783,8 @@ var  Airports = {
     "lg_PAX":13.849,
     "lg_UK":12.997,
     "lg_EU":13.27,
-    "lg_NON":8.569
+    "lg_NON":8.569,
+    "Foreign_rate":0.572815534
     }
   },
   {
@@ -766,7 +803,8 @@ var  Airports = {
     "lg_PAX":13.868,
     "lg_UK":13.109,
     "lg_EU":13.206,
-    "lg_NON":8.381
+    "lg_NON":8.381,
+    "Foreign_rate":0.514285714
     }
   },
   {
@@ -785,7 +823,8 @@ var  Airports = {
     "lg_PAX":14.019,
     "lg_UK":13.268,
     "lg_EU":13.347,
-    "lg_NON":9.099
+    "lg_NON":9.099,
+    "Foreign_rate":0.520325203
     }
   },
   {
@@ -804,7 +843,8 @@ var  Airports = {
     "lg_PAX":14.155,
     "lg_UK":13.379,
     "lg_EU":13.498,
-    "lg_NON":9.432
+    "lg_NON":9.432,
+    "Foreign_rate":0.528571429
     }
   },
   {
@@ -823,7 +863,8 @@ var  Airports = {
     "lg_PAX":14.234,
     "lg_UK":13.441,
     "lg_EU":13.566,
-    "lg_NON":9.323
+    "lg_NON":9.323,
+    "Foreign_rate":0.519736842
     }
   },
   {
@@ -842,7 +883,8 @@ var  Airports = {
     "lg_PAX":14.277,
     "lg_UK":13.462,
     "lg_EU":13.606,
-    "lg_NON":9.803
+    "lg_NON":9.803,
+    "Foreign_rate":0.522012579
     }
   },
   {
@@ -861,7 +903,8 @@ var  Airports = {
     "lg_PAX":14.344,
     "lg_UK":13.521,
     "lg_EU":13.667,
-    "lg_NON":10.403
+    "lg_NON":10.403,
+    "Foreign_rate":0.523529412
     }
   },
   {
@@ -880,7 +923,8 @@ var  Airports = {
     "lg_PAX":14.38,
     "lg_UK":13.541,
     "lg_EU":13.714,
-    "lg_NON":10.53
+    "lg_NON":10.53,
+    "Foreign_rate":0.534090909
     }
   },
   {
@@ -899,7 +943,8 @@ var  Airports = {
     "lg_PAX":14.264,
     "lg_UK":13.442,
     "lg_EU":13.594,
-    "lg_NON":10.019
+    "lg_NON":10.019,
+    "Foreign_rate":0.522292994
     }
   },
   {
@@ -918,7 +963,8 @@ var  Airports = {
     "lg_PAX":14.238,
     "lg_UK":13.421,
     "lg_EU":13.596,
-    "lg_NON":9.308
+    "lg_NON":9.308,
+    "Foreign_rate":0.529411765
     }
   },
   {
@@ -937,7 +983,8 @@ var  Airports = {
     "lg_PAX":13.935,
     "lg_UK":13.263,
     "lg_EU":13.196,
-    "lg_NON":8.519
+    "lg_NON":8.519,
+    "Foreign_rate":0.486725664
     }
   },
   {
@@ -956,7 +1003,8 @@ var  Airports = {
     "lg_PAX":14.058,
     "lg_UK":13.482,
     "lg_EU":13.205,
-    "lg_NON":8.48
+    "lg_NON":8.48,
+    "Foreign_rate":0.42519685
     }
   },
   {
@@ -975,7 +1023,8 @@ var  Airports = {
     "lg_PAX":11.092,
     "lg_UK":10.771,
     "lg_EU":9.802,
-    "lg_NON":0
+    "lg_NON":0,
+    "Foreign_rate":0.285714286
     }
   },
   {
@@ -994,7 +1043,8 @@ var  Airports = {
     "lg_PAX":11.277,
     "lg_UK":10.852,
     "lg_EU":10.216,
-    "lg_NON":3.784
+    "lg_NON":3.784,
+    "Foreign_rate":0.375
     }
   },
   {
@@ -1013,7 +1063,8 @@ var  Airports = {
     "lg_PAX":11.427,
     "lg_UK":11,
     "lg_EU":10.349,
-    "lg_NON":6.469
+    "lg_NON":6.469,
+    "Foreign_rate":0.333333333
     }
   },
   {
@@ -1032,7 +1083,8 @@ var  Airports = {
     "lg_PAX":11.637,
     "lg_UK":11.161,
     "lg_EU":10.651,
-    "lg_NON":6.413
+    "lg_NON":6.413,
+    "Foreign_rate":0.363636364
     }
   },
   {
@@ -1051,7 +1103,8 @@ var  Airports = {
     "lg_PAX":11.764,
     "lg_UK":11.215,
     "lg_EU":10.904,
-    "lg_NON":0
+    "lg_NON":0,
+    "Foreign_rate":0.384615385
     }
   },
   {
@@ -1070,7 +1123,8 @@ var  Airports = {
     "lg_PAX":11.878,
     "lg_UK":11.28,
     "lg_EU":11.08,
-    "lg_NON":0
+    "lg_NON":0,
+    "Foreign_rate":0.428571429
     }
   },
   {
@@ -1089,7 +1143,8 @@ var  Airports = {
     "lg_PAX":12.026,
     "lg_UK":11.396,
     "lg_EU":11.266,
-    "lg_NON":0
+    "lg_NON":0,
+    "Foreign_rate":0.470588235
     }
   },
   {
@@ -1108,7 +1163,8 @@ var  Airports = {
     "lg_PAX":12.153,
     "lg_UK":11.596,
     "lg_EU":11.303,
-    "lg_NON":0
+    "lg_NON":0,
+    "Foreign_rate":0.421052632
     }
   },
   {
@@ -1127,7 +1183,8 @@ var  Airports = {
     "lg_PAX":11.945,
     "lg_UK":11.488,
     "lg_EU":10.942,
-    "lg_NON":0
+    "lg_NON":0,
+    "Foreign_rate":0.4
     }
   },
   {
@@ -1146,7 +1203,8 @@ var  Airports = {
     "lg_PAX":11.891,
     "lg_UK":11.46,
     "lg_EU":10.842,
-    "lg_NON":0
+    "lg_NON":0,
+    "Foreign_rate":0.333333333
     }
   },
   {
@@ -1165,7 +1223,8 @@ var  Airports = {
     "lg_PAX":11.434,
     "lg_UK":10.962,
     "lg_EU":10.457,
-    "lg_NON":0
+    "lg_NON":0,
+    "Foreign_rate":0.333333333
     }
   },
   {
@@ -1184,7 +1243,8 @@ var  Airports = {
     "lg_PAX":11.596,
     "lg_UK":11.161,
     "lg_EU":10.553,
-    "lg_NON":0
+    "lg_NON":0,
+    "Foreign_rate":0.363636364
     }
   },
   {
@@ -1203,7 +1263,8 @@ var  Airports = {
     "lg_PAX":14.404,
     "lg_UK":12.385,
     "lg_EU":14.218,
-    "lg_NON":10.744
+    "lg_NON":10.744,
+    "Foreign_rate":0.861111111
     }
   },
   {
@@ -1222,7 +1283,8 @@ var  Airports = {
     "lg_PAX":14.365,
     "lg_UK":12.479,
     "lg_EU":14.154,
-    "lg_NON":10.594
+    "lg_NON":10.594,
+    "Foreign_rate":0.832369942
     }
   },
   {
@@ -1241,7 +1303,8 @@ var  Airports = {
     "lg_PAX":14.503,
     "lg_UK":12.623,
     "lg_EU":14.297,
-    "lg_NON":10.675
+    "lg_NON":10.675,
+    "Foreign_rate":0.834170854
     }
   },
   {
@@ -1260,7 +1323,8 @@ var  Airports = {
     "lg_PAX":14.676,
     "lg_UK":12.775,
     "lg_EU":14.478,
-    "lg_NON":10.832
+    "lg_NON":10.832,
+    "Foreign_rate":0.843220339
     }
   },
   {
@@ -1279,7 +1343,8 @@ var  Airports = {
     "lg_PAX":14.738,
     "lg_UK":13.048,
     "lg_EU":14.494,
-    "lg_NON":10.696
+    "lg_NON":10.696,
+    "Foreign_rate":0.797619048
     }
   },
   {
@@ -1298,7 +1363,8 @@ var  Airports = {
     "lg_PAX":14.785,
     "lg_UK":13.207,
     "lg_EU":14.5,
-    "lg_NON":11.029
+    "lg_NON":11.029,
+    "Foreign_rate":0.772727273
     }
   },
   {
@@ -1317,7 +1383,8 @@ var  Airports = {
     "lg_PAX":14.835,
     "lg_UK":13.279,
     "lg_EU":14.537,
-    "lg_NON":11.266
+    "lg_NON":11.266,
+    "Foreign_rate":0.772563177
     }
   },
   {
@@ -1336,7 +1403,8 @@ var  Airports = {
     "lg_PAX":14.905,
     "lg_UK":13.381,
     "lg_EU":14.6,
-    "lg_NON":11.346
+    "lg_NON":11.346,
+    "Foreign_rate":0.764309764
     }
   },
   {
@@ -1355,7 +1423,8 @@ var  Airports = {
     "lg_PAX":14.802,
     "lg_UK":13.223,
     "lg_EU":14.511,
-    "lg_NON":11.281
+    "lg_NON":11.281,
+    "Foreign_rate":0.776119403
     }
   },
   {
@@ -1374,7 +1443,8 @@ var  Airports = {
     "lg_PAX":14.744,
     "lg_UK":13.037,
     "lg_EU":14.489,
-    "lg_NON":11.223
+    "lg_NON":11.223,
+    "Foreign_rate":0.802371542
     }
   },
   {
@@ -1393,7 +1463,8 @@ var  Airports = {
     "lg_PAX":14.499,
     "lg_UK":12.407,
     "lg_EU":14.318,
-    "lg_NON":11.179
+    "lg_NON":11.179,
+    "Foreign_rate":0.868686869
     }
   },
   {
@@ -1412,10 +1483,12 @@ var  Airports = {
     "lg_PAX":14.519,
     "lg_UK":12.504,
     "lg_EU":14.316,
-    "lg_NON":11.313
+    "lg_NON":11.313,
+    "Foreign_rate":0.856435644
     }
   }
-]};
+]
+};
 
 
 var route = {
@@ -2631,7 +2704,7 @@ var route_europe={
 
 // A single point that animates along the route.
 // Coordinates are initially set to origin.
-var point = {"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"United States","Flights":"507"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Turkey","Flights":"99"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Canada","Flights":"74"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"United Arab Emirates","Flights":"49"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"India","Flights":"48"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"China","Flights":"45"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Qatar","Flights":"38"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Cyprus","Flights":"36"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Hong Kong","Flights":"34"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Singapore","Flights":"28"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"South Africa","Flights":"26"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Morocco","Flights":"25"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Japan","Flights":"24"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Guernsey","Flights":"23"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Bulgaria","Flights":"22"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Gibraltar","Flights":"16"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Saudi Arabia","Flights":"16"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Israel","Flights":"15"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Mexico","Flights":"15"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Brazil","Flights":"14"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Egypt","Flights":"14"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"South Korea","Flights":"14"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Thailand","Flights":"14"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Bahrain","Flights":"12"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Lebanon","Flights":"12"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Malaysia","Flights":"12"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Nigeria","Flights":"12"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Kenya","Flights":"10"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Kuwait","Flights":"10"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Jordan","Flights":"8"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Oman","Flights":"8"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Mauritius","Flights":"7"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Algeria","Flights":"6"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Argentina","Flights":"6"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Barbados","Flights":"6"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Tunisia","Flights":"6"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Saint Lucia","Flights":"5"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Antigua and Barbuda","Flights":"4"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Australia","Flights":"4"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Bahamas","Flights":"4"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Bangladesh","Flights":"4"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Brunei","Flights":"4"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Chile","Flights":"4"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Colombia","Flights":"4"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Ethiopia","Flights":"4"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Ghana","Flights":"4"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Kazakhstan","Flights":"4"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Pakistan","Flights":"4"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Philippines","Flights":"4"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Sri Lanka","Flights":"4"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Vietnam","Flights":"4"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Bermuda","Flights":"3"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Albania","Flights":"2"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Azerbaijan","Flights":"2"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Cape Verde","Flights":"2"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Cuba","Flights":"2"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Dominican Republic","Flights":"2"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Georgia","Flights":"2"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Iran","Flights":"2"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Jamaica","Flights":"2"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Peru","Flights":"2"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Seychelles","Flights":"2"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Taiwan","Flights":"2"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Aruba","Flights":"1"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Costa Rica","Flights":"1"}}]};
+var point = {"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"United States","Flights":"507"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Turkey","Flights":"99"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Canada","Flights":"74"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"United Arab Emirates","Flights":"49"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"India","Flights":"48"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"China","Flights":"45"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Qatar","Flights":"38"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Cyprus","Flights":"36"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Hong Kong","Flights":"34"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Singapore","Flights":"28"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"South Africa","Flights":"26"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Morocco","Flights":"25"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Japan","Flights":"24"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Guernsey","Flights":"23"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Bulgaria","Flights":"22"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Saudi Arabia","Flights":"16"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Israel","Flights":"15"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Mexico","Flights":"15"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Brazil","Flights":"14"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Egypt","Flights":"14"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"South Korea","Flights":"14"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Thailand","Flights":"14"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Bahrain","Flights":"12"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Lebanon","Flights":"12"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Malaysia","Flights":"12"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Nigeria","Flights":"12"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Kenya","Flights":"10"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Kuwait","Flights":"10"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Jordan","Flights":"8"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Oman","Flights":"8"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Mauritius","Flights":"7"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Algeria","Flights":"6"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Argentina","Flights":"6"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Barbados","Flights":"6"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Tunisia","Flights":"6"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Saint Lucia","Flights":"5"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Antigua and Barbuda","Flights":"4"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Australia","Flights":"4"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Bahamas","Flights":"4"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Bangladesh","Flights":"4"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Brunei","Flights":"4"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Chile","Flights":"4"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Colombia","Flights":"4"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Ethiopia","Flights":"4"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Ghana","Flights":"4"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Kazakhstan","Flights":"4"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Pakistan","Flights":"4"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Philippines","Flights":"4"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Sri Lanka","Flights":"4"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Vietnam","Flights":"4"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Bermuda","Flights":"3"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Albania","Flights":"2"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Azerbaijan","Flights":"2"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Cape Verde","Flights":"2"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Cuba","Flights":"2"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Dominican Republic","Flights":"2"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Georgia","Flights":"2"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Iran","Flights":"2"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Jamaica","Flights":"2"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Peru","Flights":"2"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Seychelles","Flights":"2"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Taiwan","Flights":"2"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Aruba","Flights":"1"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0,51.470034]},"properties":{"City":"Costa Rica","Flights":"1"}}]};
 var point_europe={
 "type": "FeatureCollection",
 "name": "eupointgeojson",
@@ -2704,12 +2777,12 @@ var counter = 0;
 
 function openAirport() {
   document.getElementById("play").style.visibility = "hidden"
-  document.getElementById("airportPanel").style.width = "497px";
+  document.getElementById("airportPanel").style.width = "35vw";
   document.getElementById("infobar").style.visibility = "visible"
 };
 function openEurope() {
   document.getElementById("contentdiv").innerHTML="<h2>Tips for flying from/to London:</h2> <br><p>London airports connect 36 European contries.In 2017, London Heathrow recorded the highest number of air passengers (78 million), <strong>NO.1 in Europe</strong></p>"
-  document.getElementById("europePanel").style.width = "497px";
+  document.getElementById("europePanel").style.width = "35vw";
   document.getElementById("infobar").style.visibility = "hidden"
   document.getElementById("play").style.visibility = "visible"
   var eurchart = document.getElementById('europe_chart');
@@ -2742,7 +2815,7 @@ function openWorld() {
   document.getElementById("contentdiv").innerHTML="<h2>Tips for flying from/to London:</h2> <br><p>Six airtports serve a total of 14 domestic destinations and 396 international destinations</p>"
   document.getElementById("infobar").style.visibility = "hidden"
   document.getElementById("play").style.visibility = "visible"
-  document.getElementById("worldPanel").style.width = "497px";
+  document.getElementById("worldPanel").style.width = "35vw";
   var worldchart = document.getElementById('world_chart');
   var myBarChart2 = new Chart(worldchart, {
       type: 'horizontalBar',
@@ -2776,6 +2849,7 @@ function closeEurope() {
 
 map.on('load', function () {
     // Add a source and layer displaying a point which will be animated in a circle.
+    document.getElementById("airportPanel").style.width = "35vw";
     map.addSource('route', {
         "type": "geojson",
         "data": route
@@ -2814,9 +2888,9 @@ map.on('load', function () {
                     'circle-color': [
                         'interpolate',
                         ['linear'],
-                        ['get', 'lg_PAX'],
-                        13, '#FC9977',
-                        16, '#a3d96a'
+                        ['get', 'Foreign_rate'],
+                        0.22, '#e86029',
+                        0.87, '#23ce21'
                     ],
                     'circle-opacity': 0.75,
                     'circle-radius': [
@@ -2839,9 +2913,9 @@ map.on('load', function () {
                 'visibility': 'visible'
               },
                 'layout': {
-                    'text-field': ['concat', ['to-string', ['get', 'PAX']], 'M'],
+                    'text-field': ['concat',['to-string', ['get', 'reporting_airport_name']],": \n",['to-string', ['get', 'PAX']], 'M'],
                     'text-font': ['Open Sans Bold', 'Arial Unicode MS Bold'],
-                    'text-size': 20
+                    'text-size': 12
                 },
                 'paint': {
                     'text-color': 'rgba(255,255,255,1)'
